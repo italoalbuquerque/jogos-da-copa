@@ -201,7 +201,11 @@ img {
 #main-container > div {
     border-bottom: 2px solid var(--dark-color);
     padding: 50px;
-    font-size: 1.2em;
+    font-size: 1.1em;
+}
+
+#footer-container {
+    width: 100%;
 }
 
 #footer-container p {

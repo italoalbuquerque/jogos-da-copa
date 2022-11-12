@@ -196,8 +196,9 @@ table {
     margin-top: 100px;
     margin-bottom: 80px;
     text-align: center;
+    font-size: .9em;
     height: 100vh;
-    width: 91%;
+    width: 50%;
     border-collapse: collapse;
     background-color: rgb(59, 59, 59);
     color: black;
@@ -206,7 +207,7 @@ table {
 caption {
     padding-bottom: 20px;
     font-weight: 600;
-    font-size: 1.2em;
+    font-size: 1.1em;
     border-bottom: 1px solid black;
 }
 
@@ -217,6 +218,10 @@ tr {
 
 th {
     padding: 10px;
+}
+
+#footer-container {
+    width: 100%;
 }
 
 #footer-container p {
@@ -328,6 +333,7 @@ th {
         margin-top: 60px;
         margin-bottom: 80px;
         text-align: center;
+        font-size: 1.2em;
         height: 100vh;
         width: 80%;
         border-collapse: collapse;
@@ -337,7 +343,7 @@ th {
     
     caption {
         padding-bottom: 20px;
-        font-size: 1.2em;
+        font-size: 1.5em;
         border-bottom: 1px solid black;
     }
     
