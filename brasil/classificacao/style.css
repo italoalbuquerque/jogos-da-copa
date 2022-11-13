@@ -198,7 +198,7 @@ table {
     text-align: center;
     font-size: .8em;
     height: 100vh;
-    width: 30%;
+    width: 100px;
     border-collapse: collapse;
     background-color: rgb(59, 59, 59);
     color: black;
@@ -221,7 +221,7 @@ th {
 }
 
 #footer-container {
-    width: 100%;
+    width: 100vw;
 }
 
 #footer-container p {
