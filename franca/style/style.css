@@ -204,6 +204,10 @@ img {
     font-size: 1.2em;
 }
 
+#footer-container {
+    width: 100vw;
+}
+
 #footer-container p {
     padding: 10px;
     margin: 0px;

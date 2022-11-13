@@ -196,8 +196,9 @@ table {
     margin-top: 100px;
     margin-bottom: 80px;
     text-align: center;
+    font-size: .8em;
     height: 100vh;
-    width: 91%;
+    width: 100px;
     border-collapse: collapse;
     background-color: rgb(59, 59, 59);
     color: black;
@@ -217,6 +218,10 @@ tr {
 
 th {
     padding: 10px;
+}
+
+#footer-container {
+    width: 100vw;
 }
 
 #footer-container p {
