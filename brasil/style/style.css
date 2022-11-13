@@ -201,7 +201,7 @@ img {
 #main-container > div {
     border-bottom: 2px solid var(--dark-color);
     padding: 50px;
-    font-size: .8em;
+    font-size: 1em;
 }
 
 #footer-container {
