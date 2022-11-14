@@ -194,7 +194,9 @@ img {
 #main-container {
     background-color: var(--white-color);
     margin-top: -50px;
-    padding: 50px;
+    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     text-align: center;
 }
 
